@@ -38,11 +38,5 @@ problema muda de gravidade conforme o ambiente; por isso perguntar antes de agir
 Relatório sempre no mesmo formato (contexto, achado, ATT&CK, tríade CIA, impacto,
 probabilidade, severidade, correção, validação e o que não foi analisado), para comparar casos.
 
-## Evidências
-![Análise do app.py](docs/img/01-analise-app-py.png)
-![Perguntas de contexto](docs/img/02-perguntas-contexto.png)
-![Validação após a correção](docs/img/03-validacao.png)
-![Mesma pergunta em chat genérico](docs/img/04-chat-generico.png)
-
 ## Aviso
 Todos os testes usam apenas código e servidores meus, de laboratório.
