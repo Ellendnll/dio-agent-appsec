@@ -23,8 +23,8 @@ problema muda de gravidade conforme o ambiente; por isso perguntar antes de agir
 ## Como rodar no harness
 1. Instale o Hermes: https://hermes-agent.nousresearch.com/docs
 2. Baixe o agente base e este repositório:
-git clone https://github.com/digitalinnovationone/dio-agent.git
-git clone https://github.com/SEU-USUARIO/dio-agent-appsec.git
+   - git clone https://github.com/digitalinnovationone/dio-agent.git
+   - git clone https://github.com/SEU-USUARIO/dio-agent-appsec.git
 3. Copie as novidades para dentro do `dio-agent`:
    - a pasta `skills/vulnerability-analysis` para `dio-agent/skills/`
    - o arquivo `agent/knowledge/security-basics.md` para `dio-agent/agent/knowledge/`
