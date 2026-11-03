@@ -19,7 +19,6 @@ problema muda de gravidade conforme o ambiente; por isso perguntar antes de agir
 | `AGENTS.md` | Apenas as linhas a acrescentar ao `AGENTS.md` original: conhecimento, linha da tabela de skills e limite de segurança |
 | `lab/app.py` | App de laboratório com SQL Injection, vulnerável de propósito |
 | `lab/app_corrigido.py` | Versão com consulta parametrizada |
-| `docs/img/` | Prints da análise |
 
 ## Como rodar no harness
 1. Instale o Hermes: https://hermes-agent.nousresearch.com/docs
