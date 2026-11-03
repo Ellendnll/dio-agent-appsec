@@ -1,4 +1,4 @@
-# 🛡️ dio-agent-appsec
+# dio-agent-appsec
 
 Especialização do [DIO Agent](https://github.com/digitalinnovationone/dio-agent) em
 **cibersegurança (AppSec)**. Este repositório contém **apenas o que foi acrescentado** ao
